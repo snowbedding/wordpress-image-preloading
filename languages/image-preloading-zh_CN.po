@@ -1,0 +1,137 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Preloading 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/image-preloading\n"
+"POT-Creation-Date: 2025-11-08 15:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: image-preloading.php:163
+msgid ""
+"Image Preloading: Settings have been successfully migrated to the new format!"
+msgstr "图片预加载：设置已成功迁移到新格式！"
+
+#: image-preloading.php:191
+msgid "Image Preloading Settings"
+msgstr "图片预加载设置"
+
+#: image-preloading.php:192
+msgid "Image Preloading"
+msgstr "图片预加载"
+
+#: image-preloading.php:211
+msgid "Main Settings"
+msgstr "主要设置"
+
+#: image-preloading.php:218
+msgid "Enable Image Preloading"
+msgstr "启用图片预加载"
+
+#: image-preloading.php:226
+msgid "Preloading Method"
+msgstr "预加载方法"
+
+#: image-preloading.php:234
+msgid "Image URLs"
+msgstr "图片 URL"
+
+#: image-preloading.php:243
+msgid "Load on"
+msgstr "加载于"
+
+#: image-preloading.php:251
+msgid "Exclude Pages"
+msgstr "排除页面"
+
+#: image-preloading.php:318
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: image-preloading.php:327
+msgid "WordPress.org Plugin Page"
+msgstr "WordPress.org 插件页面"
+
+#: image-preloading.php:330
+msgid "GitHub Repository"
+msgstr "GitHub 仓库"
+
+#: image-preloading.php:335
+msgid ""
+"Configure image preloading to improve your site's performance by loading "
+"images in the background."
+msgstr "配置图片预加载，通过在后台加载图片来提高您的网站性能。"
+
+#: image-preloading.php:352
+msgid "Configure how images should be preloaded on your site."
+msgstr "配置图片应如何在您的网站上进行预加载。"
+
+#: image-preloading.php:361
+msgid "Enable image preloading functionality"
+msgstr "启用图片预加载功能"
+
+#: image-preloading.php:370
+msgid "JavaScript (compatible with all browsers)"
+msgstr "JavaScript（兼容所有浏览器）"
+
+#: image-preloading.php:371
+msgid "Link Preload (modern browsers only)"
+msgstr "链接预加载（仅限现代浏览器）"
+
+#: image-preloading.php:372
+msgid "Both methods (recommended)"
+msgstr "两种方法（推荐）"
+
+#: image-preloading.php:381
+msgid "Choose how images should be preloaded."
+msgstr "选择图片的预加载方式。"
+
+#: image-preloading.php:391
+msgid ""
+"Enter one image URL per line. Only enter URLs of images you want to preload."
+msgstr "每行输入一个图片 URL。只输入您想要预加载的图片的 URL。"
+
+#: image-preloading.php:400
+msgid "All pages"
+msgstr "所有页面"
+
+#: image-preloading.php:401
+msgid "Front page (static page or posts page)"
+msgstr "首页（静态页面或文章页）"
+
+#: image-preloading.php:402
+msgid "Blog posts page (when using static front page)"
+msgstr "博客文章页面（当使用静态首页时）"
+
+#: image-preloading.php:403
+msgid "Single posts only"
+msgstr "仅限单篇文章"
+
+#: image-preloading.php:404
+msgid "Pages only"
+msgstr "仅限页面"
+
+#: image-preloading.php:405
+msgid "Archive pages only"
+msgstr "仅限存档页面"
+
+#: image-preloading.php:414
+msgid ""
+"Choose where to load the preloading scripts. Front page includes your "
+"homepage (static page or blog posts)."
+msgstr "选择在何处加载预加载脚本。首页包括您的主页（静态页面或博客文章）。"
+
+#: image-preloading.php:422
+msgid "Comma-separated list of page/post IDs to exclude from image preloading."
+msgstr "要从图片预加载中排除的页面/文章 ID 列表，以逗号分隔。"
+
+#: image-preloading.php:432
+msgid "Settings"
+msgstr "设置"
