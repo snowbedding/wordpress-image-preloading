@@ -108,7 +108,7 @@ This version includes major improvements and requires WordPress 5.0+. All settin
 
 == Support ==
 
-For support, bug reports, or feature requests, please visit: [Image Preloading Support](https://github.com/snowbedding/image-preloading/issues)
+For support, bug reports, or feature requests, please visit: [Github](https://github.com/snowbedding/image-preloading)
 
 == Contributing ==
 
