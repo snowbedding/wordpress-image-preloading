@@ -8,7 +8,7 @@
  * @license GPL-2.0+
  *
  * Plugin Name: Image Preloading
- * Plugin URI: https://github.com/snowbedding/wordpress-image-preloading
+ * Plugin URI: https://github.com/snowbedding/image-preloading
  * Description: Modern image preloading/prefetching plugin for WordPress to improve page loading performance by preloading images in the background using multiple methods.
  * Version: 2.0.0
  * Author: snowbedding
@@ -326,7 +326,7 @@ class Image_Preloading_Plugin {
                     <a href="https://wordpress.org/plugins/image-preloading/" target="_blank" rel="noopener noreferrer" class="button button-secondary">
                         <?php _e('WordPress.org Plugin Page', 'image-preloading'); ?>
                     </a>
-                    <a href="https://github.com/snowbedding/wordpress-image-preloading" target="_blank" rel="noopener noreferrer" class="button button-secondary">
+                    <a href="https://github.com/snowbedding/image-preloading" target="_blank" rel="noopener noreferrer" class="button button-secondary">
                         <?php _e('GitHub Repository', 'image-preloading'); ?>
                     </a>
                 </div>

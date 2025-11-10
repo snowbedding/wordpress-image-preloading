@@ -1,6 +1,6 @@
 === Image Preloading ===
 Contributors: snowbedding
-Tags: image, preload, prefetch, performance, optimization, gallery, photos, loading, speed, javascript
+Tags: image, preload, prefetch, performance, speed
 Requires at least: 5.0
 Tested up to: 6.9
 Stable tag: 2.0.0
@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires PHP: 7.2
 
-Modern image preloading/prefetching plugin for WordPress to improve page loading performance by preloading images in the background using multiple methods.
+Modern image preloading/prefetching plugin for WordPress to improve page loading performance.
 
 == Description ==
 
@@ -108,9 +108,7 @@ This version includes major improvements and requires WordPress 5.0+. All settin
 
 == Support ==
 
-For support, bug reports, or feature requests, please visit:
-* [WordPress Plugin Directory](https://wordpress.org/plugins/image-preloading/)
-* [Image Preloading Support](https://github.com/snowbedding/wordpress-image-preloading/issues)
+For support, bug reports, or feature requests, please visit: [Image Preloading Support](https://github.com/snowbedding/image-preloading/issues)
 
 == Contributing ==
 
